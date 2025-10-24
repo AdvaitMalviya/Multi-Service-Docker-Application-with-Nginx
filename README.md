@@ -34,7 +34,7 @@ Using the testcase: "My new phone's camera is amazing, but the battery life is c
 
 
 
-Uaing the testcase: "The service at the new cafe was an absolute disaster, but the coffee was surprisingly excellent."
+Using the testcase: "The service at the new cafe was an absolute disaster, but the coffee was surprisingly excellent."
 
 <img width="1919" height="1065" alt="image" src="https://github.com/user-attachments/assets/1e077809-3ef6-4e44-b03e-260be42c233f" />
 
